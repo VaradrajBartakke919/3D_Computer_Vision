@@ -1,3 +1,5 @@
+This project focuses on 3D reconstruction using Linear Algebra approach, Gaussian Splatting approach and Neural Radiance Fields (NeRF) approach to achieve photorealistic rendering of objects and scenes from novel viewpoints. A dataset of 50 images of a bottle captured from various angles was processed to reconstruct the 3D structure and features of the object. The pipeline integrates camera parameter estimation using COLMAP, feature detection and extraction using the ORB algorithm, and depth analysis through Depth Maps, Disparity Maps, and Edge Maps. The project highlights the different realistic 3D scenes provided by differenet approaches and provides a comprehensive workflow for 3D reconstruction tasks.
+
 ## Links to download the input files(dataset)  
 Input Dataset for 3D_Reconstruction.ipynb & gaussian_splatting.ipynb:  
 Dataset(raw images) - https://drive.google.com/drive/folders/1TbdaAgl1JUMnI40lDh9wkbY0QbIzMqFC?usp=sharing  
